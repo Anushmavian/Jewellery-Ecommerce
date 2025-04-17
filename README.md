@@ -50,3 +50,6 @@ const firebaseConfig = {
   projectId: "YOUR_PROJECT_ID",
   // ...
 };
+
+const app = initializeApp(firebaseConfig);
+export const auth = getAuth(app);
