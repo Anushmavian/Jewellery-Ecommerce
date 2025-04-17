@@ -1,7 +1,6 @@
 import admin from 'firebase-admin';
-import fs from 'fs/promises';
-
 import { readFileSync } from 'fs';
+
 const serviceAccount = JSON.parse(
   readFileSync(new URL('../config/firebase-service-account.json', import.meta.url), 'utf-8')
 );
