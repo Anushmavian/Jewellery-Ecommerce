@@ -22,7 +22,7 @@ const Footer = () => {
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} YourJewelleryStore. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Olivia. All rights reserved.</p>
       </div>
     </footer>
   );
