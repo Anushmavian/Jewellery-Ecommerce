@@ -1,0 +1,6 @@
+server/config/firebase-service-account.json
+# Ignore env files
+
+client/.env
+server/.env
+node_modules/
