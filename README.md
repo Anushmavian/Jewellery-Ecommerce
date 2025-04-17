@@ -1,4 +1,4 @@
-# 💎 Radiant Jewels - E-commerce Web App
+# 💎 Olivia - Jewellery E-commerce Web App
 
 A modern jewellery e-commerce platform built using the MERN stack with Firebase Authentication, real-time cart & favourites, and a beautiful carousel-powered homepage.
 
